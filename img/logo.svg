@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="logo.svg"
+   width="1458.8235"
+   height="205.38782"
+   viewBox="0 0 1458.8235 205.38782"
+   version="1.1"
+   id="svg18">
+  <sodipodi:namedview
+     inkscape:current-layer="svg18"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="158.87554"
+     inkscape:cx="719.29744"
+     inkscape:zoom="0.57195816"
+     showgrid="false"
+     id="namedview848"
+     inkscape:window-height="1080"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs22" />
+  <g
+     id="g893"
+     transform="matrix(0.89690153,0,0,0.89690153,-5.9625558,-40.479689)">
+    <text
+       y="224"
+       x="3"
+       font-style="italic"
+       font-weight="800"
+       font-family="WorkSans-ExtraBoldItalic, 'Work Sans'"
+       font-size="241px"
+       fill="#1776c9"
+       id="SmartScope1"><tspan
+         id="tspan2"
+         y="224"
+         x="3">Smart</tspan><tspan
+         id="tspan4"
+         fill="#e6e6e6"
+         y="224"
+         style="fill:#999999">Scope</tspan></text>
+    <path
+       style="stroke-width:1.07179;fill:#999999;fill-opacity:1"
+       id="Caminho_9"
+       data-name="Caminho 9"
+       d="m 1225.7157,79.722668 a 80.384176,80.384176 0 1 1 -80.3842,80.384172 80.384176,80.384176 0 0 1 80.3842,-80.384172 z"
+       fill="#567793" />
+    <path
+       style="stroke-width:1.07179"
+       id="Caminho_3"
+       data-name="Caminho 3"
+       d="m 1225.6578,80.695852 a 80.326302,80.326302 0 1 1 0,160.652598"
+       fill="#1876c9" />
+    <path
+       style="stroke-width:1.07179"
+       id="Caminho_10"
+       data-name="Caminho 10"
+       d="m 1225.6578,107.47129 a 53.064274,53.064274 0 1 1 -53.0643,53.06427 53.064274,53.064274 0 0 1 53.0643,-53.06427 z"
+       fill="#0c4372" />
+    <path
+       style="stroke-width:1.07179"
+       id="Caminho_6"
+       data-name="Caminho 6"
+       d="m 1225.6578,128.40547 a 32.130091,32.130091 0 1 1 -32.1301,32.13009 32.130091,32.130091 0 0 1 32.1301,-32.13009 z" />
+    <path
+       style="stroke-width:1.07179"
+       id="Caminho_4"
+       data-name="Caminho 4"
+       d="m 1225.6578,128.40547 a 32.130627,32.130627 0 0 1 0,64.26125" />
+    <g
+       id="Grupo_1"
+       data-name="Grupo 1"
+       transform="matrix(1.071789,0,0,1.071789,1187.6854,124.51059)">
+      <path
+         id="Caminho_5"
+         data-name="Caminho 5"
+         d="m 220.121,230.06 a 17.26,17.26 0 1 1 -17.26,-17.26 17.253,17.253 0 0 1 17.26,17.26 z"
+         transform="translate(-185.6,-212.8)"
+         fill="#ffffff" />
+      <circle
+         id="Elipse_4"
+         data-name="Elipse 4"
+         cx="9.0839996"
+         cy="9.0839996"
+         r="9.0839996"
+         transform="translate(45.876,47.693)"
+         fill="#ffffff" />
+    </g>
+  </g>
+</svg>
