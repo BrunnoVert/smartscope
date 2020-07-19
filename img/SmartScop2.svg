@@ -5,8 +5,12 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    height="160.67999"
    width="416.32999"
+   sodipodi:docname="SmartScop2.svg"
    xml:space="preserve"
    viewBox="0 0 416.32999 160.67999"
    y="0px"
@@ -37,7 +41,30 @@
 	
 	
 	
-</defs>
+</defs><sodipodi:namedview
+   inkscape:current-layer="Camada_1"
+   inkscape:window-maximized="1"
+   inkscape:window-y="0"
+   inkscape:window-x="0"
+   inkscape:cy="185.26"
+   inkscape:cx="222.59"
+   inkscape:zoom="1.0820707"
+   fit-margin-bottom="0"
+   fit-margin-right="0"
+   fit-margin-left="0"
+   fit-margin-top="0"
+   showgrid="false"
+   id="namedview52"
+   inkscape:window-height="1054"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
 <style
    id="style2"
    type="text/css">
