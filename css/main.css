@@ -500,7 +500,7 @@ body.mobile-nav-active #mobile-nav-toggle{color:#fff;}
 .faq-left .card-header .btn-link{border-radius:0 !important;color:#fff;text-decoration:none;}
 @media (max-width:414px){.faq-left .card-header .btn-link{font-size:12px;}
 }
-.footer-area{padding-top:100px;background-color:#051721;}
+.footer-area{padding-top:100px;background-color:#1b1b1b;}
 h6{color:#fff;margin-bottom:25px;font-size:18px;font-weight:600;}
 .copy-right-text i, .copy-right-text a{color:#235ee7;}
 .footer-social a{padding-right:25px;-webkit-transition:all 0.3s ease 0s;-moz-transition:all 0.3s ease 0s;-o-transition:all 0.3s ease 0s;transition:all 0.3s ease 0s;}
